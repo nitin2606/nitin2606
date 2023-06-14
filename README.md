@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Maurya</h1>
 <h3 align="center">A passionate Robot Operating System Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.upal.com.my%2Ftop-10-best-programming-languages-to-learn-in-2018-2019%2F&psig=AOvVaw0x4LYKN2ec3k66VtPrZ9vY&ust=1686853335048000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOC0kMCww_8CFQAAAAAdAAAAABAS">
 
 - 🔭 I’m currently working on **Autonomous Mobile Robot**
 
