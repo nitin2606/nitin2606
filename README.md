@@ -6,13 +6,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.upal.com.my%2Ftop-10-best-programming-languages-to-learn-in-2018-2019%2F&psig=AOvVaw0x4LYKN2ec3k66VtPrZ9vY&ust=1686853335048000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOC0kMCww_8CFQAAAAAdAAAAABAS">
 
-- 🔭 I’m currently working on **Autonomous Mobile Robot**
+- 🔭 I’m currently working on **Autonomous Mobile Robot, Autonomous Outdoor Vehicle and API Development**
 
-- 🌱 I’m currently learning **ROS, RTOS, OpenCV, Tensorflow**
+- 🌱 I’m currently learning **ROS, OpenCV, Tensorflow, Machine Learning, Computer Vision**
 
-- 💬 Ask me about **ROS, Python, Java, C++, Firebase, Kotlin, OpenCV, YOLO, Arduino**
+- 💬 Ask me about **ROS, Python, Java, C++, Firebase, OpenCV, YOLO, Raspberry Pi, Docker, Arduino**
 
-- 📫 How to reach me **nitinmaurya2606@gmail.com**
+- 📫 How to reach me **nitinmaurya2606@gmail.com, www.linkedin.com/in/nitin-maurya-8415a524b**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
